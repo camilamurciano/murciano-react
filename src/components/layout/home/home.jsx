@@ -1,7 +1,7 @@
-import "./main.css";
-export const Main = () => {
+import "./home.css";
+export const Home = () => {
   return (
-    <div className="main" style={{ fontSize: "20px" }}>
+    <div className="home" style={{ fontSize: "20px" }}>
       ¡Aca podras encontrar todo lo necesario para tus amigos de 4 patas!
     </div>
   );

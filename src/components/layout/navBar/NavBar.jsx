@@ -10,7 +10,7 @@ export const NavBar = () => {
         <li>Perros</li>
         <li>Gatos</li>
       </ul>
-      <CartWidget size={35} />
+      <CartWidget size={25} />
     </div>
   );
 };
